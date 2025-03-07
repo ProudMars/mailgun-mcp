@@ -2,6 +2,13 @@
 
 **Connect with LLM directly and send custom emails to your users directly from your IDE or LLM's desktop apps**
 
+
+## Build Project
+
+```
+pnpm run build
+```
+
 ## Attach MCP server with IDE or desktop app
 
 ```
@@ -18,4 +25,4 @@
 
 ```
 
-### That's it 
+### That's it !
